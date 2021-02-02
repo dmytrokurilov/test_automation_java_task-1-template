@@ -2,6 +2,11 @@ package com.epam.test.automation.java.practice1;
 
 public class Main {
 
+    private Main()
+    {
+
+    }
+
     public static int task1(int n)
     {
         int result;
